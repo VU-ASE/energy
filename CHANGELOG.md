@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/VU-ASE/energy/compare/v1.0.0...v1.0.1) (2025-04-04)
+
+
+### Bug Fixes
+
+* added print statement for debugging ([3fabbb6](https://github.com/VU-ASE/energy/commit/3fabbb693d3b1e299529d7f4c806a976d778db59))
+
 ## 1.0.0 (2025-03-29)
 
 
