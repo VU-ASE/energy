@@ -6,7 +6,8 @@ BINARY_NAME=energy
 
 lint:
 	@echo "Lint check..."
-	@golangci-lint run
+	@GOFLAGS="-buildvcs=false" golangci-lint run
+	@echo "Lint complete"
 
 build: #lint
 	@echo "building ${BINARY_NAME}"
