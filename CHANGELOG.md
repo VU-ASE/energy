@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/VU-ASE/energy/compare/v1.0.0...v1.1.0) (2025-06-16)
+
+
+### Features
+
+* added build action event triggers and buildvc=false in makefile ([4fec108](https://github.com/VU-ASE/energy/commit/4fec10874a576eeae2190fcd560fa1a579efb44a))
+
+
+### Bug Fixes
+
+* added print statement for debugging ([3fabbb6](https://github.com/VU-ASE/energy/commit/3fabbb693d3b1e299529d7f4c806a976d778db59))
+
 ## 1.0.0 (2025-03-29)
 
 
