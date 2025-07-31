@@ -5,14 +5,14 @@ import (
 	"os"
 	"time"
 
-	roverlib "github.com/VU-ASE/roverlib-go/src"
+	roverlib "github.com/VU-ASE/roverlib-go/v2/src"
 	"periph.io/x/conn/v3/i2c"
 	"periph.io/x/conn/v3/i2c/i2creg"
 	"periph.io/x/host/v3"
 
 	"github.com/rs/zerolog/log"
 
-	pb_outputs "github.com/VU-ASE/rovercom/packages/go/outputs"
+	pb_outputs "github.com/VU-ASE/rovercom/v2/packages/go/outputs"
 )
 
 const (
