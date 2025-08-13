@@ -6,4 +6,6 @@
 </div>
 <br/>
 
-**This service outputs energy metrics on Rovers that have a [_INA226_](https://www.ti.com/product/INA226) current sensor mounted on them.**
+**This repository houses the `energy` [service](https://ase.vu.nl/docs/framework/glossary/service), which can be used in a [pipeline](https://ase.vu.nl/docs/framework/glossary/pipeline) on an ASE Rover. To get started, take a look at its [documentation](https://ase.vu.nl/docs/category/energy)**
+
+
